@@ -588,21 +588,8 @@ video {
   }
 }
 
-.m-0 {
-  margin: 0px;
-}
-
-.mx-0 {
-  margin-left: 0px;
-  margin-right: 0px;
-}
-
 .flex {
   display: flex;
-}
-
-.w-10 {
-  width: 2.5rem;
 }
 
 .w-10\/12 {
